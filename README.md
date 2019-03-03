@@ -8,7 +8,7 @@ Developing a python script to run SQL commands against a database including larg
 - Days where more then 1% of requests returned errors
 
 ## Requirements
-	- Pyton Editor
+	- Pyton 3
 	- Vagrant & VirtualBox
 
 ## Set up
